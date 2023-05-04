@@ -1,0 +1,2 @@
+# rubocop
+rubocopとreviewdogの検証
